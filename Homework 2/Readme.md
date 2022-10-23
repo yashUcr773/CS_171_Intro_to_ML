@@ -1,6 +1,6 @@
 Homework 2 Implemented
 - Includes Data visualization and modelling
-- Inlcudes Linear regression
+- Includes Linear regression
   - Single feature implementation
   - Closed Form Matrix Solution
   - Gradient Descent Implementaion
