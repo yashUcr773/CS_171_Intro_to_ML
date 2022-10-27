@@ -8,4 +8,4 @@ Homework 2 Implemented
   - SKlearn Implementaion
   - Gradient Descent Implementaion
   
-Link to Google Colab - https://colab.research.google.com/drive/1FGgCG4QiibAM0jwh0JRXSaI-ggAiHosc?usp=sharing 
+Link to Google Colab - https://colab.research.google.com/drive/1aZGEj3jgzJIcUE6e0uQf8KSw3J-tJuFu?usp=sharing
